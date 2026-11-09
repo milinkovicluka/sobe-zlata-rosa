@@ -1,0 +1,27 @@
+{
+  "name": "Sobe Zlata Rosa",
+  "lang": "sl",
+  "locale": "sl_SI",
+  "url": "https://milinkovicluka.github.io/sobe-zlata-rosa",
+  "description": "Demo stran: sobe in apartma za počitnice v Bohinju, nekaj minut od jezera. Zajtrk z domačimi izdelki, parkirišče in kolesarnica. Podjetje in podatki so izmišljeni.",
+  "tagline": "Sobe in apartma nekaj minut od Bohinjskega jezera",
+  "theme_color": "#1d4e57",
+  "phone": "+38600000000",
+  "phone_display": "000 000 000",
+  "whatsapp": "38600000000",
+  "email": "info@example.com",
+  "location": "Bohinj, Slovenija",
+  "demo_note": "Demo stran. Sobe Zlata Rosa, cene in kontakti so izmišljeni. Izdelava:",
+  "ui_menu": "Glavni meni",
+  "ui_quick": "Hitri kontakt",
+  "ui_call": "Pokliči",
+  "ui_inquiry": "Povpraševanje",
+  "ui_check_availability": "Preveri termin",
+  "nav": [
+    { "label": "Domov", "url": "/" },
+    { "label": "Sobe", "url": "/sobe" },
+    { "label": "Cenik", "url": "/cenik" },
+    { "label": "Okolica", "url": "/okolica" },
+    { "label": "Kontakt", "url": "/kontakt" }
+  ]
+}
